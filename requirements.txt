@@ -1,0 +1,16 @@
+# Data handling and modelling
+pandas
+numpy
+scikit-learn
+
+# Data download
+ucimlrepo
+
+# Data visualization
+matplotlib
+seaborn
+
+# Notebook
+jupyter
+jupyterlab
+ipykernel
